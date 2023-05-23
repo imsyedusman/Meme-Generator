@@ -1,5 +1,8 @@
 
 body {
+    background-image: url(/Images/meme-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #fff;
 }
 
